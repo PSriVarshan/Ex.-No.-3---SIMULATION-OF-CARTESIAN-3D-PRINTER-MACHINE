@@ -111,6 +111,30 @@ In a Cartesian 3D printer's Y-axis assembly, the motor is the electrical compone
 ### Complete Assembly 
 ![image](https://github.com/PSriVarshan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/114944059/64c5b0b7-9ea3-47a1-ba05-1bb35269ae17)
 
+#### Frame :
+The frame in a Cartesian 3D printer is the sturdy structure that supports and holds all the components together. It provides stability, alignment, and durability for accurate and reliable 3D printing.
+
+#### X-Axis Assembly :
+The X-axis assembly in a Cartesian 3D printer controls the left and right movement of the print head or print bed. It consists of a gantry, motor, and mechanism that enable precise positioning along the X-axis for accurate 3D printing.
+
+#### Y-Axis Assembly :
+The Y-axis assembly in a Cartesian 3D printer controls the forward and backward movement of the print head or print bed. It consists of a gantry, motor, and mechanism that enable precise positioning along the Y-axis for accurate 3D printing.
+
+#### Z-Axis Assembly :
+The Z-axis assembly in a Cartesian 3D printer controls the up and down movement of the print head or print bed. It consists of a vertical rod, a motor, a lead screw or threaded nut, and a carriage. It ensures precise positioning along the Z-axis for accurate 3D printing.
+
+#### SMPS :
+Converts AC to DC current.
+
+#### LCD :
+LCD screen provides a user-friendly interface that allows the user to control the printer and monitor its progress during printing.
+
+#### Spool Holder :
+Holds Spool .
+
+#### Spool :
+A spool refers to a roll of filament that is used as the printing material for the 3D printer. 
+
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
