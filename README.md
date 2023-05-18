@@ -107,9 +107,10 @@ The Z-axis top cover in a Cartesian 3D printer is a protective enclosure that sh
 #### Motor :
 In a Cartesian 3D printer's Y-axis assembly, the motor is the electrical component that drives the movement of the Z-axis. It rotates and works with the pulley and belt system to accurately position the Y-axis gantry for precise 3D printing.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+### Complete Assembly 
+![image](https://github.com/PSriVarshan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/114944059/64c5b0b7-9ea3-47a1-ba05-1bb35269ae17)
+
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
