@@ -94,7 +94,18 @@ The Y-axis frame in a Cartesian 3D printer's Y-axis assembly is the sturdy struc
 
 The Y-axis base in a Cartesian 3D printer's Y-axis assembly is the stable foundation on which the Y-axis components are mounted. It ensures precise and controlled movement along the Y-axis for accurate 3D printing.
 
+### Z-Axis Assembly
 
+![image](https://github.com/PSriVarshan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/114944059/32870051-3f82-4d26-b289-1cc21b703ab9)
+
+#### Z-Axis Rod:
+The Z-axis rod in a Cartesian 3D printer is a vertical rod that controls the up and down movement of the Z-axis components, such as the print head or print bed. It allows for precise positioning and layer-by-layer printing during the 3D printing process.
+
+#### Z-Axis Top Cover :
+The Z-axis top cover in a Cartesian 3D printer is a protective enclosure that shields and keeps the upper part of the Z-axis assembly safe. It helps protect internal components, reduces noise, improves safety, and adds to the printer's aesthetic appeal.
+
+#### Motor :
+In a Cartesian 3D printer's Y-axis assembly, the motor is the electrical component that drives the movement of the Z-axis. It rotates and works with the pulley and belt system to accurately position the Y-axis gantry for precise 3D printing.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
 
@@ -102,10 +113,10 @@ The Y-axis base in a Cartesian 3D printer's Y-axis assembly is the stable founda
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
-## Output:
+## By:
 
-### Name: 
-### Register Number:
+### Name:  Sri Varshan P
+### Register Number: 212222240104
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
